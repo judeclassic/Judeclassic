@@ -6,11 +6,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/jude.techie/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/judeclassic)
 
-##### Hi there 👋
+#### Hi there 👋
 
-###### My name is jude Dickson, I am a backend software engineer / mobile developer, My target is to build the best and fast application using top technologies
+##### My name is jude Dickson, I am a backend software engineer / mobile developer, My target is to build the best and fast application using top technologies
 #
-###### Want to know more
+##### Want to know more
 #
 #
 ## 💼 Skills
@@ -95,8 +95,9 @@
 <br>
 <br>
 #
-###Follow Me!
-![](https://img.shields.io/github/followers/judeclassic?style=flat-square)
+###Followers
+######do well to follow for a follow
+[](https://img.shields.io/github/followers/judeclassic?style=flat-square)
 #
 
 
