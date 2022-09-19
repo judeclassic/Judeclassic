@@ -1,6 +1,6 @@
 ![Jude classic Banner](https://ik.imagekit.io/judeclassic/wp-Hi-I-m-Jude-Dickson_1652295060_7vS_jO4MR.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1652295184910&tr=w-1500%2Ch-500%2Cfo-auto)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://info.judeclassic.link)
+[![🪁](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://judeclassic.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/judeclassic24)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jude-dickson-bb3055152/)
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/jude.techie/)
